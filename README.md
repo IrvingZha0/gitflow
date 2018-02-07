@@ -5,7 +5,6 @@
 
 Git flow workflow - Feature Branches
 ![alt text](https://wac-cdn.atlassian.com/dam/jcr:2bef0bef-22bc-4485-94b9-a9422f70f11c/02%20(2).svg?cdnVersion=jo)
-The picture is taken from https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
 ## 1.1 What is Feature Branches
 Branches created from the develop branch and are used to code a new feature for an upcoming or future release.
